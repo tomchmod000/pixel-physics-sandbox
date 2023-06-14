@@ -1,0 +1,27 @@
+---
+# Members of your group.
+group:
+  - name: Tommy Chen
+    netid: tc575
+  - name: Max Benjamin Jensen
+    netid: mbj49
+  - name: Zhiqin He
+    netid: zh93
+# Your PM.
+pm:
+  name: Amanda Andreasen
+  netid: apa49
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "Pixel Physics Sandbox"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/zh93/CS3110-final-project"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Remember those online pixel sandbox games from a while back? 
+  Our project aims to recreate that, albeit with fewer features, in OCAML. 
+  Users can create pixels of different material and watch them interact on the screen. 
+  This project makes use of OCAML's standard Graphics library. 
